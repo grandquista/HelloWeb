@@ -6,7 +6,7 @@
   "author": "Adam Grandquist <grandquista@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.4.2",
+    "react": "^16.5.2",
     "react-dom": "^16.4.2",
     "react-scripts": "2.0.4"
   },
